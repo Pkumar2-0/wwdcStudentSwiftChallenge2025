@@ -176,7 +176,7 @@ import SwiftUI
 //                Text("Taylor’s Theorem approximates a smooth function near a point by a polynomial whose coefficients are derived from the function’s derivatives at that point. It is a cornerstone of calculus and helps in understanding function behavior and error estimation.")
 //                    .font(.body)
 //                    .lineLimit(nil)
-//                
+//
 //                // Formula Section
 //                Text("Formula")
 //                    .font(.headline)
@@ -185,16 +185,16 @@ import SwiftUI
 //""")
 //                    .font(.system(.body, design: .monospaced))
 //                    .padding(.vertical, 5)
-//                
+//
 //                // Application Section
 //                Text("Application")
 //                    .font(.headline)
 //                Text("Taylor’s theorem is used to approximate complex functions with simpler polynomial forms, which is very useful in numerical analysis, physics, and engineering to estimate values and bound errors.")
 //                    .font(.body)
 //                    .lineLimit(nil)
-//                
+//
 //                Spacer()
-//                
+//
 //                // Navigation Button
 //                NavigationLink(destination: TryView()) {
 //                    Text("Let's Try")
@@ -219,11 +219,11 @@ import SwiftUI
 //                .font(.largeTitle)
 //                .fontWeight(.bold)
 //                .padding(.top)
-//            
+//
 //            Text("Here you can add interactive components such as sliders to adjust parameters, graphs to visualize the polynomial approximation, or other experiments to see the theorem in action.")
 //                .font(.body)
 //                .padding()
-//            
+//
 //            Spacer()
 //        }
 //        .padding()
